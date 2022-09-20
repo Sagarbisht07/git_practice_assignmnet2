@@ -16,3 +16,4 @@ if(a==true){
 }else{
     console.log("Not Prime");
 }
+
