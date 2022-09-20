@@ -8,7 +8,12 @@ function prime(num){
         return true;
     }
     return false;
-} 
-let x= prime(13);
-if(x==true) console.log("num is prime");
-else  console.log("num is not prime");
+}
+
+let a=prime(11);
+if(a==true){
+    console.log("Prime");
+}else{
+    console.log("Not Prime");
+}
+
